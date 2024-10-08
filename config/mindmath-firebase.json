@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mindmath-a5aa6",
+  "private_key_id": "5700c13a15f27658aa9bd58dad7ff443e61f715a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqWHn/SjTxIWEZ\n6x6+AXvzzJ0pBMrfp9yIWVtrFeljkzfABktRGMYnRYWes3LikO2KzUQK2Dk+KWlO\n++f4SdMnof/msvyCD9i/rGOlJYb3R8iD6/ocNutrlq23w9teTk9Sm+RZ9c6P7Fv/\nfVY9QgBnJTwvihyC2reyBEmCY58oiUofoQxvC80Th7ZcaXvlKgowEJeUQTnYqYHi\nG5ylV+ZYtwFMUfmqt/VfzPsl1JkgxndXncMCHGy6BAqpcbZicxkozKb7UH1kH9+K\nqFUur9gsRAa5fPr6beRDGF5qxeeBUqVi/uagWgdUHfFgjX3JJDstek9sGIT/yWIV\n6IZOqA57AgMBAAECggEAQeOeMLp91uU/31wcFIeTb95tzc9uP2t4+H6Dx1x+3Ya0\nskBdAp3QC6GvCQ9FOVCwqRczofQ31A0FkEkM1XOMytA1IQGLfS1u+9jM5DSrS1vH\nOgvdPuuZTRDH2gRWhlhJA12MSqWzA+V7QkwzPteYO01iRcsosw6xrhhNbLNm/TDX\n3V9/Em6A3nGlIq1XEUh1c6gJGnPTCKRZ1gOqd3B4eRI6sDvuEDxOphNJpYLEQESA\nQf9EvFqMbq3gHTrUqoThDX7hDhgdipayrbcRLJR6FNkil2JV3z7tJ/NIqtzUY2DO\nLYzT9GIOMOO9m4wNrFvRv34w3IF/XuV3d5nzFvt3bQKBgQDTIuNibx2a+fiXvYLX\nkg5uaz+oqjvsd+HLQwCcR+fY1oxEJRw3nqdKLdJy179SxyJo1lA5WXsvCfggC6YT\nRYamwYNnfiLkCMKsqj4ObE23n7oZG2nIjjByEkIorEYfg9zrgo2Jqd2eX2zd3fGw\nhZQlHWSLZoYyvHJj4cWTCSWT7QKBgQDOirYizXIZL8QnGwK4HK4UUTcQpjz43c3+\nu8VdF14g1QaVHeSD2hUSrx5pSyfDWl2L5FynPzxXPY2aP7m7pkrW/ndUEhVe4KvM\n2WD7R31APaeb9poawBexT0Pd5J3+jUkIf1uXDJJuAXuIRRMq6UEVAR04WRr5iTCf\nt+q2jEqvBwKBgQCI8s9EkMhGNq+tVOoig4VCz+PptgnKVvQpUJt7wxQ6TOeMZ/nG\nhe0Cq3ger5xUx/+kuqYsnMLO/wtnVcbyJx2w2kIuhd2BxcDoGEDKQCuk2EDwehyC\nTuBTjU5GbX/Kf1BzninKSlkKmeDWhFh5ZBt0e301Alo3XI5iBRaPSdaK/QKBgEpl\n7tu0c3AdI6QOd7lII3CQHKyzpOzkQMqMarhwrWhYM8nM/b589PBJAkRdXRJiX6X/\neVyJS7wFIRe58rZkXTr6aJNw/B+0AE6G0wdQpg5Y5yIn/zS5kw88hS7NphfGXtNf\nxOcxESHtCMl6UEA5y0a8owDkH/JY95ngzvw4psJLAoGAJScJ2AMcefXvx9f/emS7\nFwwXuWHMSu7Lh4zj3CyKeJu1nKdDm8jn2W5SDdcZJn3p6y3U+kT1+PPmCa2o2Gmc\n+CzUvwUcBDx3F6mZM24o3+UCN71YCjB1ofjyQqhFfsE9mn0PGDdB9NiZAVADJL2g\nXmkKcECbE4o5AoNfbLSZxc0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-njsit@mindmath-a5aa6.iam.gserviceaccount.com",
+  "client_id": "106298964111510494091",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-njsit%40mindmath-a5aa6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
